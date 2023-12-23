@@ -1,0 +1,10 @@
+C:\Users\DM\AppData\Local\Temp\VirtualBox Dropped Files\NetStandartLibrary\ClassLibrary1\bin\Debug\netstandard2.1\TestNetStandard.deps.json
+C:\Users\DM\AppData\Local\Temp\VirtualBox Dropped Files\NetStandartLibrary\ClassLibrary1\bin\Debug\netstandard2.1\TestNetStandard.dll
+C:\Users\DM\AppData\Local\Temp\VirtualBox Dropped Files\NetStandartLibrary\ClassLibrary1\bin\Debug\netstandard2.1\TestNetStandard.pdb
+C:\Users\DM\AppData\Local\Temp\VirtualBox Dropped Files\NetStandartLibrary\ClassLibrary1\obj\Debug\netstandard2.1\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\DM\AppData\Local\Temp\VirtualBox Dropped Files\NetStandartLibrary\ClassLibrary1\obj\Debug\netstandard2.1\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DM\AppData\Local\Temp\VirtualBox Dropped Files\NetStandartLibrary\ClassLibrary1\obj\Debug\netstandard2.1\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\DM\AppData\Local\Temp\VirtualBox Dropped Files\NetStandartLibrary\ClassLibrary1\obj\Debug\netstandard2.1\ClassLibrary1.AssemblyInfo.cs
+C:\Users\DM\AppData\Local\Temp\VirtualBox Dropped Files\NetStandartLibrary\ClassLibrary1\obj\Debug\netstandard2.1\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\DM\AppData\Local\Temp\VirtualBox Dropped Files\NetStandartLibrary\ClassLibrary1\obj\Debug\netstandard2.1\TestNetStandard.dll
+C:\Users\DM\AppData\Local\Temp\VirtualBox Dropped Files\NetStandartLibrary\ClassLibrary1\obj\Debug\netstandard2.1\TestNetStandard.pdb
